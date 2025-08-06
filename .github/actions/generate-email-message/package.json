@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "strftime": "^0.10.0",
-    "tmp": "0.0.33"
+    "tmp": "0.2.4"
   }
 }
